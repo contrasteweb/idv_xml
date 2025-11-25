@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palmares_idv>
+  <equipo>
+    <nombre>Independiente del Valle</nombre>
+    <alias>IDV</alias>
+    <pais>Ecuador</pais>
+    <rango_fechas>2007 - Actualidad</rango_fechas>
+  </equipo>
+  
+  <logros>
+    <logro id="1">
+      <competencia>Campeonato Ecuatoriano Segunda Categoría</competencia>
+      <anio>2007</anio>
+      <ambito>Nacional</ambito>
+      <categoria>Absoluta</categoria>
+      <posicion>Campeón</posicion>
+      <detalle>Ascenso a Serie B</detalle>
+    </logro>
+
+    <logro id="2">
+      <competencia>Campeonato Ecuatoriano Serie B</competencia>
+      <anio>2009</anio>
+      <ambito>Nacional</ambito>
+      <categoria>Absoluta</categoria>
+      <posicion>Campeón</posicion>
+      <detalle>Ascenso a Primera Categoría</detalle>
+    </logro>
+    
+    <logro id="3">
+      <competencia>LigaPro Serie A</competencia>
+      <anio>2021</anio>
+      <ambito>Nacional</ambito>
+      <categoria>Absoluta</categoria>
+      <posicion>Campeón</posicion>
+      <rival>C.S. Emelec</rival>
+    </logro>
+    
+    <logro id="4">
+      <competencia>Copa Ecuador</competencia>
+      <anio>2022</anio>
+      <ambito>Nacional</ambito>
+      <categoria>Absoluta</categoria>
+      <posicion>Campeón</posicion>
+      <rival>9 de Octubre</rival>
+    </logro>
+    
+    <logro id="5">
+      <competencia>Supercopa de Ecuador</competencia>
+      <anio>2023</anio>
+      <ambito>Nacional</ambito>
+      <categoria>Absoluta</categoria>
+      <posicion>Campeón</posicion>
+      <rival>S.D. Aucas</rival>
+    </logro>
+
+    <logro id="6">
+      <competencia>Copa Sudamericana</competencia>
+      <anio>2019</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Absoluta</categoria>
+      <organizador>CONMEBOL</organizador>
+      <posicion>Campeón</posicion>
+      <rival>Colón de Santa Fe</rival>
+    </logro>
+
+    <logro id="7">
+      <competencia>Copa Sudamericana</competencia>
+      <anio>2022</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Absoluta</categoria>
+      <organizador>CONMEBOL</organizador>
+      <posicion>Campeón</posicion>
+      <rival>São Paulo</rival>
+    </logro>
+
+    <logro id="8">
+      <competencia>Recopa Sudamericana</competencia>
+      <anio>2023</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Absoluta</categoria>
+      <organizador>CONMEBOL</organizador>
+      <posicion>Campeón</posicion>
+      <rival>Flamengo</rival>
+    </logro>
+    
+    <logro id="9">
+      <competencia>Copa Libertadores Sub-20</competencia>
+      <anio>2020</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Sub-20</categoria>
+      <organizador>CONMEBOL</organizador>
+      <posicion>Campeón</posicion>
+      <rival>River Plate</rival>
+    </logro>
+
+    <logro id="10">
+      <competencia>Copa Libertadores</competencia>
+      <anio>2016</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Absoluta</categoria>
+      <organizador>CONMEBOL</organizador>
+      <posicion>Subcampeón</posicion>
+      <rival>Atlético Nacional</rival>
+    </logro>
+
+    <logro id="11">
+      <competencia>Recopa Sudamericana</competencia>
+      <anio>2020</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Absoluta</categoria>
+      <organizador>CONMEBOL</organizador>
+      <posicion>Subcampeón</posicion>
+      <rival>Flamengo</rival>
+    </logro>
+
+    <logro id="12">
+      <competencia>UEFA-CONMEBOL Desafío de Clubes</competencia>
+      <anio>2023</anio>
+      <ambito>Internacional</ambito>
+      <categoria>Absoluta</categoria>
+      <organizador>UEFA-CONMEBOL</organizador>
+      <posicion>Subcampeón</posicion>
+      <rival>Sevilla FC</rival>
+      <detalle>Definición por penales</detalle>
+    </logro>
+  </logros>
+</palmares_idv>
