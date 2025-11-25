@@ -4,7 +4,7 @@
     <nombre>Independiente del Valle</nombre>
     <alias>IDV</alias>
     <pais>Ecuador</pais>
-    <rango_fechas>2007 - Actualidad</rango_fechas>
+    <rango_fechas>2007 - 2025</rango_fechas>
   </equipo>
   
   <logros>
@@ -124,4 +124,5 @@
       <detalle>Definición por penales</detalle>
     </logro>
   </logros>
+
 </palmares_idv>
