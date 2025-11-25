@@ -1,364 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<IDV_Data>
+<independiente_del_valle>
 
-  <!-- ============================= -->
-  <!--   SECCIÓN: PALMARÉS COMPLETO  -->
-  <!-- ============================= -->
-  <palmares_idv>
-    <equipo>
-      <nombre>Independiente del Valle</nombre>
-      <alias>IDV</alias>
-      <pais>Ecuador</pais>
-      <rango_fechas>2007 - 2025</rango_fechas>
-    </equipo>
+  <!-- ========================= -->
+  <!--     SECCIÓN DE LOGROS     -->
+  <!-- ========================= -->
+  <logros>
+    <informacion_general>
+      <fundacion>1958</fundacion>
+      <estadio>
+        <nombre>Banco Guayaquil</nombre>
+        <capacidad>12000</capacidad>
+      </estadio>
+      <colores>
+        <principal>Negro</principal>
+        <secundario>Azul</secundario>
+      </colores>
+    </informacion_general>
 
-    <logros>
-
-      <logro id="1">
-        <competencia>Campeonato Ecuatoriano Segunda Categoría</competencia>
-        <anio>2007</anio>
-        <ambito>Nacional</ambito>
-        <categoria>Absoluta</categoria>
-        <posicion>Campeón</posicion>
-        <detalle>Ascenso a Serie B</detalle>
-      </logro>
-
-      <logro id="2">
-        <competencia>Campeonato Ecuatoriano Serie B</competencia>
-        <anio>2009</anio>
-        <ambito>Nacional</ambito>
-        <categoria>Absoluta</categoria>
-        <posicion>Campeón</posicion>
-        <detalle>Ascenso a Primera Categoría</detalle>
-      </logro>
-
-      <logro id="3">
-        <competencia>LigaPro Serie A</competencia>
-        <anio>2021</anio>
-        <ambito>Nacional</ambito>
-        <categoria>Absoluta</categoria>
-        <posicion>Campeón</posicion>
-        <rival>C.S. Emelec</rival>
-      </logro>
-
-      <logro id="4">
-        <competencia>Copa Ecuador</competencia>
-        <anio>2022</anio>
-        <ambito>Nacional</ambito>
-        <categoria>Absoluta</categoria>
-        <posicion>Campeón</posicion>
-        <rival>9 de Octubre</rival>
-      </logro>
-
-      <logro id="5">
-        <competencia>Supercopa de Ecuador</competencia>
-        <anio>2023</anio>
-        <ambito>Nacional</ambito>
-        <categoria>Absoluta</categoria>
-        <posicion>Campeón</posicion>
-        <rival>S.D. Aucas</rival>
-      </logro>
-
-      <!-- INTERNACIONALES -->
-      <logro id="6">
-        <competencia>Copa Sudamericana</competencia>
+    <palmares>
+      <titulo>
+        <competicion>Copa Sudamericana</competicion>
         <anio>2019</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Absoluta</categoria>
-        <organizador>CONMEBOL</organizador>
-        <posicion>Campeón</posicion>
-        <rival>Colón de Santa Fe</rival>
-      </logro>
-
-      <logro id="7">
-        <competencia>Copa Sudamericana</competencia>
+      </titulo>
+      <titulo>
+        <competicion>Copa Sudamericana</competicion>
         <anio>2022</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Absoluta</categoria>
-        <organizador>CONMEBOL</organizador>
-        <posicion>Campeón</posicion>
-        <rival>São Paulo</rival>
-      </logro>
-
-      <logro id="8">
-        <competencia>Recopa Sudamericana</competencia>
+      </titulo>
+      <titulo>
+        <competicion>Recopa Sudamericana</competicion>
         <anio>2023</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Absoluta</categoria>
-        <organizador>CONMEBOL</organizador>
-        <posicion>Campeón</posicion>
-        <rival>Flamengo</rival>
-      </logro>
-
-      <logro id="9">
-        <competencia>Copa Libertadores Sub-20</competencia>
-        <anio>2020</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Sub-20</categoria>
-        <organizador>CONMEBOL</organizador>
-        <posicion>Campeón</posicion>
-        <rival>River Plate</rival>
-      </logro>
-
-      <logro id="10">
-        <competencia>Copa Libertadores</competencia>
-        <anio>2016</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Absoluta</categoria>
-        <organizador>CONMEBOL</organizador>
-        <posicion>Subcampeón</posicion>
-        <rival>Atlético Nacional</rival>
-      </logro>
-
-      <logro id="11">
-        <competencia>Recopa Sudamericana</competencia>
-        <anio>2020</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Absoluta</categoria>
-        <organizador>CONMEBOL</organizador>
-        <posicion>Subcampeón</posicion>
-        <rival>Flamengo</rival>
-      </logro>
-
-      <logro id="12">
-        <competencia>UEFA-CONMEBOL Desafío de Clubes</competencia>
-        <anio>2023</anio>
-        <ambito>Internacional</ambito>
-        <categoria>Absoluta</categoria>
-        <organizador>UEFA-CONMEBOL</organizador>
-        <posicion>Subcampeón</posicion>
-        <rival>Sevilla FC</rival>
-        <detalle>Definición por penales</detalle>
-      </logro>
-
-    </logros>
-  </palmares_idv>
+      </titulo>
+      <titulo>
+        <competicion>Serie A Ecuador</competicion>
+        <anio>2021</anio>
+      </titulo>
+      <titulo>
+        <competicion>Copa Ecuador</competicion>
+        <anio>2022</anio>
+      </titulo>
+    </palmares>
+  </logros>
 
 
-  <!-- ========================================= -->
-  <!--      SECCIÓN: TABLA DE POSICIONES 2025    -->
-  <!-- ========================================= -->
-  <TablaPosiciones torneo="LigaPro Ecuador 2025">
+  <!-- =============================== -->
+  <!--     SECCIÓN TABLA POSICIONES    -->
+  <!-- =============================== -->
+  <posiciones>
+    <grupo nombre="A">
+      <club>
+        <nombre>Independiente del Valle</nombre>
+        <pj>35</pj><g>21</g><e>11</e><p>3</p>
+        <gf>63</gf><gc>27</gc><dg>36</dg><pts>74</pts>
+      </club>
+      <club>
+        <nombre>LDU Quito</nombre>
+        <pj>35</pj><g>17</g><e>11</e><p>7</p>
+        <gf>62</gf><gc>36</gc><dg>26</dg><pts>62</pts>
+      </club>
+      <club>
+        <nombre>Barcelona SC</nombre>
+        <pj>36</pj><g>18</g><e>8</e><p>10</p>
+        <gf>52</gf><gc>43</gc><dg>9</dg><pts>62</pts>
+      </club>
+      <club>
+        <nombre>Universidad Católica</nombre>
+        <pj>36</pj><g>14</g><e>14</e><p>8</p>
+        <gf>66</gf><gc>46</gc><dg>20</dg><pts>56</pts>
+      </club>
+      <club>
+        <nombre>Libertad FC</nombre>
+        <pj>36</pj><g>13</g><e>12</e><p>11</p>
+        <gf>48</gf><gc>45</gc><dg>3</dg><pts>51</pts>
+      </club>
+      <club>
+        <nombre>Orense</nombre>
+        <pj>36</pj><g>14</g><e>9</e><p>13</p>
+        <gf>38</gf><gc>43</gc><dg>-5</dg><pts>51</pts>
+      </club>
+    </grupo>
 
-    <!-- GRUPO A -->
-    <Grupo nombre="A">
-      <Equipo>
-        <Posicion>1</Posicion>
-        <Club>Independiente del Valle</Club>
-        <PJ>35</PJ>
-        <G>21</G>
-        <E>11</E>
-        <P>3</P>
-        <GF>63</GF>
-        <GC>27</GC>
-        <DG>36</DG>
-        <Pts>74</Pts>
-      </Equipo>
+    <grupo nombre="B">
+      <club>
+        <nombre>Macará</nombre>
+        <pj>36</pj><g>14</g><e>11</e><p>11</p>
+        <gf>47</gf><gc>34</gc><dg>13</dg><pts>53</pts>
+      </club>
+      <club>
+        <nombre>Aucas</nombre>
+        <pj>36</pj><g>14</g><e>10</e><p>12</p>
+        <gf>55</gf><gc>48</gc><dg>7</dg><pts>52</pts>
+      </club>
+      <club>
+        <nombre>Deportivo Cuenca</nombre>
+        <pj>36</pj><g>15</g><e>7</e><p>14</p>
+        <gf>38</gf><gc>36</gc><dg>2</dg><pts>52</pts>
+      </club>
+      <club>
+        <nombre>Emelec</nombre>
+        <pj>36</pj><g>13</g><e>10</e><p>13</p>
+        <gf>35</gf><gc>42</gc><dg>-7</dg><pts>49</pts>
+      </club>
+      <club>
+        <nombre>El Nacional</nombre>
+        <pj>36</pj><g>11</g><e>9</e><p>16</p>
+        <gf>41</gf><gc>59</gc><dg>-18</dg><pts>42</pts>
+      </club>
+      <club>
+        <nombre>Delfín</nombre>
+        <pj>36</pj><g>7</g><e>14</e><p>15</p>
+        <gf>30</gf><gc>60</gc><dg>-30</dg><pts>35</pts>
+      </club>
+    </grupo>
 
-      <Equipo>
-        <Posicion>2</Posicion>
-        <Club>LDU Quito</Club>
-        <PJ>35</PJ>
-        <G>17</G>
-        <E>11</E>
-        <P>7</P>
-        <GF>62</GF>
-        <GC>36</GC>
-        <DG>26</DG>
-        <Pts>62</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>3</Posicion>
-        <Club>Barcelona SC</Club>
-        <PJ>36</PJ>
-        <G>18</G>
-        <E>8</E>
-        <P>10</P>
-        <GF>52</GF>
-        <GC>43</GC>
-        <DG>9</DG>
-        <Pts>62</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>4</Posicion>
-        <Club>U. Católica</Club>
-        <PJ>36</PJ>
-        <G>14</G>
-        <E>14</E>
-        <P>8</P>
-        <GF>66</GF>
-        <GC>46</GC>
-        <DG>20</DG>
-        <Pts>56</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>5</Posicion>
-        <Club>Libertad FC</Club>
-        <PJ>36</PJ>
-        <G>13</G>
-        <E>12</E>
-        <P>11</P>
-        <GF>48</GF>
-        <GC>45</GC>
-        <DG>3</DG>
-        <Pts>51</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>6</Posicion>
-        <Club>Orense</Club>
-        <PJ>36</PJ>
-        <G>14</G>
-        <E>9</E>
-        <P>13</P>
-        <GF>38</GF>
-        <GC>43</GC>
-        <DG>-5</DG>
-        <Pts>51</Pts>
-      </Equipo>
-    </Grupo>
-
-
-    <!-- GRUPO B -->
-    <Grupo nombre="B">
-      <Equipo>
-        <Posicion>1</Posicion>
-        <Club>Macará</Club>
-        <PJ>36</PJ>
-        <G>14</G>
-        <E>11</E>
-        <P>11</P>
-        <GF>47</GF>
-        <GC>34</GC>
-        <DG>13</DG>
-        <Pts>53</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>2</Posicion>
-        <Club>Aucas</Club>
-        <PJ>36</PJ>
-        <G>14</G>
-        <E>10</E>
-        <P>12</P>
-        <GF>55</GF>
-        <GC>48</GC>
-        <DG>7</DG>
-        <Pts>52</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>3</Posicion>
-        <Club>Deportivo Cuenca</Club>
-        <PJ>36</PJ>
-        <G>15</G>
-        <E>7</E>
-        <P>14</P>
-        <GF>38</GF>
-        <GC>36</GC>
-        <DG>2</DG>
-        <Pts>52</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>4</Posicion>
-        <Club>Emelec</Club>
-        <PJ>36</PJ>
-        <G>13</G>
-        <E>10</E>
-        <P>13</P>
-        <GF>35</GF>
-        <GC>42</GC>
-        <DG>-7</DG>
-        <Pts>49</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>5</Posicion>
-        <Club>El Nacional</Club>
-        <PJ>36</PJ>
-        <G>11</G>
-        <E>9</E>
-        <P>16</P>
-        <GF>49</GF>
-        <GC>59</GC>
-        <DG>-10</DG>
-        <Pts>42</Pts>
-      </Equipo>
-
-      <Equipo>
-        <Posicion>6</Posicion>
-        <Club>Delfín</Club>
-        <PJ>36</PJ>
-        <G>7</G>
-        <E>14</E>
-        <P>15</P>
-        <GF>30</GF>
-        <GC>60</GC>
-        <DG>-30</DG>
-        <Pts>35</Pts>
-      </Equipo>
-    </Grupo>
+    <grupo nombre="C">
+      <club>
+        <nombre>Manta</nombre>
+        <pj>35</pj><g>8</g><e>12</e><p>15</p>
+        <gf>43</gf><gc>57</gc><dg>-14</dg><pts>36</pts>
+      </club>
+      <club>
+        <nombre>Mushuc Runa</nombre>
+        <pj>35</pj><g>9</g><e>8</e><p>18</p>
+        <gf>42</gf><gc>55</gc><dg>-13</dg><pts>35</pts>
+      </club>
+      <club>
+        <nombre>Técnico Universitario</nombre>
+        <pj>35</pj><g>9</g><e>8</e><p>18</p>
+        <gf>29</gf><gc>51</gc><dg>-22</dg><pts>35</pts>
+      </club>
+      <club>
+        <nombre>Vínotinto</nombre>
+        <pj>35</pj><g>8</g><e>7</e><p>20</p>
+        <gf>41</gf><gc>61</gc><dg>-21</dg><pts>31</pts>
+      </club>
+    </grupo>
+  </posiciones>
 
 
-    <!-- GRUPO C -->
-    <Grupo nombre="C">
-      <Equipo>
-        <Posicion>1</Posicion>
-        <Club>Manta</Club>
-        <PJ>35</PJ>
-        <G>8</G>
-        <E>12</E>
-        <P>15</P>
-        <GF>43</GF>
-        <GC>57</GC>
-        <DG>-14</DG>
-        <Pts>36</Pts>
-      </Equipo>
+  <!-- =============================== -->
+  <!--      SECCIÓN PLANTILLA IDV      -->
+  <!-- =============================== -->
+  <plantilla>
+    <jugador>
+      <numero>22</numero>
+      <nombre>Guido Villar</nombre>
+      <posicion>Portero</posicion>
+      <edad>27</edad>
+      <contrato>31/12/2026</contrato>
+      <valor_mercado>1,20 mill. €</valor_mercado>
+    </jugador>
 
-      <Equipo>
-        <Posicion>2</Posicion>
-        <Club>Mushuc Runa</Club>
-        <PJ>35</PJ>
-        <G>9</G>
-        <E>8</E>
-        <P>18</P>
-        <GF>55</GF>
-        <GC>33</GC>
-        <DG>-19</DG>
-        <Pts>35</Pts>
-      </Equipo>
+    <jugador>
+      <numero>12</numero>
+      <nombre>Eduardo Bores</nombre>
+      <posicion>Portero</posicion>
+      <edad>23</edad>
+      <contrato>31/12/2028</contrato>
+      <valor_mercado>600 mil €</valor_mercado>
+    </jugador>
 
-      <Equipo>
-        <Posicion>3</Posicion>
-        <Club>Técnico Universitario</Club>
-        <PJ>35</PJ>
-        <G>9</G>
-        <E>8</E>
-        <P>18</P>
-        <GF>59</GF>
-        <GC>81</GC>
-        <DG>-22</DG>
-        <Pts>33</Pts>
-      </Equipo>
+    <jugador>
+      <numero>14</numero>
+      <nombre>Mateo Carabajal</nombre>
+      <posicion>Defensa central</posicion>
+      <edad>28</edad>
+      <contrato>31/12/2027</contrato>
+      <valor_mercado>1,00 mill. €</valor_mercado>
+    </jugador>
 
-      <Equipo>
-        <Posicion>4</Posicion>
-        <Club>VinoTinto</Club>
-        <PJ>35</PJ>
-        <G>8</G>
-        <E>7</E>
-        <P>20</P>
-        <GF>40</GF>
-        <GC>51</GC>
-        <DG>-11</DG>
-        <Pts>31</Pts>
-      </Equipo>
-    </Grupo>
+    <jugador>
+      <numero>2</numero>
+      <nombre>Luis Zárate</nombre>
+      <posicion>Defensa central</posicion>
+      <edad>25</edad>
+      <contrato>31/12/2027</contrato>
+      <valor_mercado>900 mil €</valor_mercado>
+    </jugador>
 
-  </TablaPosiciones>
+    <jugador>
+      <numero>4</numero>
+      <nombre>Óscar Quiñónez</nombre>
+      <posicion>Defensa central</posicion>
+      <edad>24</edad>
+      <contrato>31/12/2025</contrato>
+      <valor_mercado>500 mil €</valor_mercado>
+    </jugador>
+  </plantilla>
 
-</IDV_Data>
+</independiente_del_valle>
