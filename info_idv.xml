@@ -4,47 +4,133 @@
   <!-- ========================= -->
   <!--     SECCIÓN DE LOGROS     -->
   <!-- ========================= -->
-  <logros>
-    <informacion_general>
-      <fundacion>1958</fundacion>
-      <estadio>
-        <nombre>Banco Guayaquil</nombre>
-        <capacidad>12000</capacidad>
-      </estadio>
-      <colores>
-        <principal>Negro</principal>
-        <secundario>Azul</secundario>
-      </colores>
-    </informacion_general>
+  
+    <logros>
 
-    <palmares>
-      <titulo>
-        <competicion>Copa Sudamericana</competicion>
-        <anio>2019</anio>
-      </titulo>
-      <titulo>
-        <competicion>Copa Sudamericana</competicion>
-        <anio>2022</anio>
-      </titulo>
-      <titulo>
-        <competicion>Recopa Sudamericana</competicion>
-        <anio>2023</anio>
-      </titulo>
-      <titulo>
-        <competicion>Serie A Ecuador</competicion>
+      <logro id="1">
+        <competencia>Campeonato Ecuatoriano Segunda Categoría</competencia>
+        <anio>2007</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <detalle>Ascenso a Serie B</detalle>
+      </logro>
+
+      <logro id="2">
+        <competencia>Campeonato Ecuatoriano Serie B</competencia>
+        <anio>2009</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <detalle>Ascenso a Primera Categoría</detalle>
+      </logro>
+
+      <logro id="3">
+        <competencia>LigaPro Serie A</competencia>
         <anio>2021</anio>
-      </titulo>
-      <titulo>
-        <competicion>Copa Ecuador</competicion>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival>C.S. Emelec</rival>
+      </logro>
+
+      <logro id="4">
+        <competencia>Copa Ecuador</competencia>
         <anio>2022</anio>
-      </titulo>
-    </palmares>
-  </logros>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival>9 de Octubre</rival>
+      </logro>
+
+      <logro id="5">
+        <competencia>Supercopa de Ecuador</competencia>
+        <anio>2023</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival>S.D. Aucas</rival>
+      </logro>
+
+      <!-- INTERNACIONALES -->
+      <logro id="6">
+        <competencia>Copa Sudamericana</competencia>
+        <anio>2019</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>Colón de Santa Fe</rival>
+      </logro>
+
+      <logro id="7">
+        <competencia>Copa Sudamericana</competencia>
+        <anio>2022</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>São Paulo</rival>
+      </logro>
+
+      <logro id="8">
+        <competencia>Recopa Sudamericana</competencia>
+        <anio>2023</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>Flamengo</rival>
+      </logro>
+
+      <logro id="9">
+        <competencia>Copa Libertadores Sub-20</competencia>
+        <anio>2020</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Sub-20</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>River Plate</rival>
+      </logro>
+
+      <logro id="10">
+        <competencia>Copa Libertadores</competencia>
+        <anio>2016</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Subcampeón</posicion>
+        <rival>Atlético Nacional</rival>
+      </logro>
+
+      <logro id="11">
+        <competencia>Recopa Sudamericana</competencia>
+        <anio>2020</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Subcampeón</posicion>
+        <rival>Flamengo</rival>
+      </logro>
+
+      <logro id="12">
+        <competencia>UEFA-CONMEBOL Desafío de Clubes</competencia>
+        <anio>2023</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>UEFA-CONMEBOL</organizador>
+        <posicion>Subcampeón</posicion>
+        <rival>Sevilla FC</rival>
+        <detalle>Definición por penales</detalle>
+      </logro>
+
+    </logros>
 
 
   <!-- =============================== -->
   <!--     SECCIÓN TABLA POSICIONES    -->
   <!-- =============================== -->
+  
   <posiciones>
     <grupo nombre="A">
       <club>
@@ -136,55 +222,179 @@
     </grupo>
   </posiciones>
 
-
   <!-- =============================== -->
   <!--      SECCIÓN PLANTILLA IDV      -->
   <!-- =============================== -->
+
   <plantilla>
-    <jugador>
-      <numero>22</numero>
-      <nombre>Guido Villar</nombre>
-      <posicion>Portero</posicion>
-      <edad>27</edad>
-      <contrato>31/12/2026</contrato>
-      <valor_mercado>1,20 mill. €</valor_mercado>
-    </jugador>
-
-    <jugador>
-      <numero>12</numero>
-      <nombre>Eduardo Bores</nombre>
-      <posicion>Portero</posicion>
-      <edad>23</edad>
-      <contrato>31/12/2028</contrato>
-      <valor_mercado>600 mil €</valor_mercado>
-    </jugador>
-
-    <jugador>
-      <numero>14</numero>
-      <nombre>Mateo Carabajal</nombre>
-      <posicion>Defensa central</posicion>
-      <edad>28</edad>
-      <contrato>31/12/2027</contrato>
-      <valor_mercado>1,00 mill. €</valor_mercado>
-    </jugador>
-
-    <jugador>
-      <numero>2</numero>
-      <nombre>Luis Zárate</nombre>
-      <posicion>Defensa central</posicion>
-      <edad>25</edad>
-      <contrato>31/12/2027</contrato>
-      <valor_mercado>900 mil €</valor_mercado>
-    </jugador>
-
-    <jugador>
-      <numero>4</numero>
-      <nombre>Óscar Quiñónez</nombre>
-      <posicion>Defensa central</posicion>
-      <edad>24</edad>
-      <contrato>31/12/2025</contrato>
-      <valor_mercado>500 mil €</valor_mercado>
-    </jugador>
-  </plantilla>
+  <jugador>
+    <numero>22</numero>
+    <nombre>Guido Villar</nombre>
+    <posicion>Portero</posicion>
+    <edad>27</edad>
+  </jugador>
+  <jugador>
+    <numero>12</numero>
+    <nombre>Eduardo Bores</nombre>
+    <posicion>Portero</posicion>
+    <edad>23</edad>
+  </jugador>
+  <jugador>
+    <numero>14</numero>
+    <nombre>Mateo Carabajal</nombre>
+    <posicion>Defensa central</posicion>
+    <edad>28</edad>
+  </jugador>
+  <jugador>
+    <numero>2</numero>
+    <nombre>Luis Zárate</nombre>
+    <posicion>Defensa central</posicion>
+    <edad>25</edad>
+  </jugador>
+  <jugador>
+    <numero>4</numero>
+    <nombre>Óscar Quiñónez</nombre>
+    <posicion>Defensa central</posicion>
+    <edad>24</edad>
+  </jugador>
+  <jugador>
+    <numero>5</numero>
+    <nombre>Richard Schunke</nombre>
+    <posicion>Defensa central</posicion>
+    <edad>33</edad>
+  </jugador>
+  <jugador>
+    <numero>33</numero>
+    <nombre>Andy Velasco</nombre>
+    <posicion>Defensa central</posicion>
+    <edad>27</edad>
+  </jugador>
+  <jugador>
+    <numero>19</numero>
+    <nombre>Layan Loor</nombre>
+    <posicion>Lateral izquierdo</posicion>
+    <edad>24</edad>
+  </jugador>
+  <jugador>
+    <numero>15</numero>
+    <nombre>Gustavo Cortez</nombre>
+    <posicion>Lateral izquierdo</posicion>
+    <edad>28</edad>
+  </jugador>
+  <jugador>
+    <numero>50</numero>
+    <nombre>Elkin Ruiz</nombre>
+    <posicion>Lateral izquierdo</posicion>
+    <edad>19</edad>
+  </jugador>
+  <jugador>
+    <numero>23</numero>
+    <nombre>Thiago Santamaría</nombre>
+    <posicion>Lateral derecho</posicion>
+    <edad>22</edad>
+  </jugador>
+  <jugador>
+    <numero>13</numero>
+    <nombre>Matías Fernández</nombre>
+    <posicion>Lateral derecho</posicion>
+    <edad>30</edad>
+  </jugador>
+  <jugador>
+    <numero>6</numero>
+    <nombre>Jordy Alcívar</nombre>
+    <posicion>Pivote</posicion>
+    <edad>26</edad>
+  </jugador>
+  <jugador>
+    <numero>32</numero>
+    <nombre>Jhegson Méndez</nombre>
+    <posicion>Pivote</posicion>
+    <edad>28</edad>
+  </jugador>
+  <jugador>
+    <numero>55</numero>
+    <nombre>Darwin Guagua</nombre>
+    <posicion>Mediocentro</posicion>
+    <edad>18</edad>
+  </jugador>
+  <jugador>
+    <numero>16</numero>
+    <nombre>Ronald Briones</nombre>
+    <posicion>Mediocentro</posicion>
+    <edad>25</edad>
+  </jugador>
+  <jugador>
+    <numero>18</numero>
+    <nombre>Cristian Zabala</nombre>
+    <posicion>Mediocentro</posicion>
+    <edad>27</edad>
+  </jugador>
+  <jugador>
+    <numero>7</numero>
+    <nombre>Patrik Mercado</nombre>
+    <posicion>Mediocentro ofensivo</posicion>
+    <edad>22</edad>
+  </jugador>
+  <jugador>
+    <numero>53</numero>
+    <nombre>Justin Lerma</nombre>
+    <posicion>Mediocentro ofensivo</posicion>
+    <edad>17</edad>
+  </jugador>
+  <jugador>
+    <numero>10</numero>
+    <nombre>Júnior Sornoza</nombre>
+    <posicion>Mediocentro ofensivo</posicion>
+    <edad>31</edad>
+  </jugador>
+  <jugador>
+    <numero>26</numero>
+    <nombre>Juan Cazares</nombre>
+    <posicion>Mediocentro ofensivo</posicion>
+    <edad>33</edad>
+  </jugador>
+  <jugador>
+    <numero>21</numero>
+    <nombre>Jean Arroyo</nombre>
+    <posicion>Mediocentro ofensivo</posicion>
+    <edad>22</edad>
+  </jugador>
+  <jugador>
+    <numero>17</numero>
+    <nombre>Aron Rodríguez</nombre>
+    <posicion>Extremo izquierdo</posicion>
+    <edad>26</edad>
+  </jugador>
+  <jugador>
+    <numero>31</numero>
+    <nombre>Emerson Pata</nombre>
+    <posicion>Extremo derecho</posicion>
+    <edad>21</edad>
+  </jugador>
+  <jugador>
+    <numero>11</numero>
+    <nombre>Michael Hoyos</nombre>
+    <posicion>Extremo derecho</posicion>
+    <edad>34</edad>
+  </jugador>
+  <jugador>
+    <numero>30</numero>
+    <nombre>Renato Ibarra</nombre>
+    <posicion>Extremo derecho</posicion>
+    <edad>34</edad>
+  </jugador>
+  <jugador>
+    <numero>77</numero>
+    <nombre>Claudio Spinelli</nombre>
+    <posicion>Delantero centro</posicion>
+    <edad>28</edad>
+  </jugador>
+  <jugador>
+    <numero>52</numero>
+    <nombre>Yandri Vásquez</nombre>
+    <posicion>Delantero centro</posicion>
+    <edad>19</edad>
+  </jugador>
+</plantilla>
 
 </independiente_del_valle>
