@@ -1,128 +1,364 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<palmares_idv>
-  <equipo>
-    <nombre>Independiente del Valle</nombre>
-    <alias>IDV</alias>
-    <pais>Ecuador</pais>
-    <rango_fechas>2007 - 2025</rango_fechas>
-  </equipo>
-  
-  <logros>
-    <logro id="1">
-      <competencia>Campeonato Ecuatoriano Segunda Categoría</competencia>
-      <anio>2007</anio>
-      <ambito>Nacional</ambito>
-      <categoria>Absoluta</categoria>
-      <posicion>Campeón</posicion>
-      <detalle>Ascenso a Serie B</detalle>
-    </logro>
+<IDV_Data>
 
-    <logro id="2">
-      <competencia>Campeonato Ecuatoriano Serie B</competencia>
-      <anio>2009</anio>
-      <ambito>Nacional</ambito>
-      <categoria>Absoluta</categoria>
-      <posicion>Campeón</posicion>
-      <detalle>Ascenso a Primera Categoría</detalle>
-    </logro>
-    
-    <logro id="3">
-      <competencia>LigaPro Serie A</competencia>
-      <anio>2021</anio>
-      <ambito>Nacional</ambito>
-      <categoria>Absoluta</categoria>
-      <posicion>Campeón</posicion>
-      <rival>C.S. Emelec</rival>
-    </logro>
-    
-    <logro id="4">
-      <competencia>Copa Ecuador</competencia>
-      <anio>2022</anio>
-      <ambito>Nacional</ambito>
-      <categoria>Absoluta</categoria>
-      <posicion>Campeón</posicion>
-      <rival>9 de Octubre</rival>
-    </logro>
-    
-    <logro id="5">
-      <competencia>Supercopa de Ecuador</competencia>
-      <anio>2023</anio>
-      <ambito>Nacional</ambito>
-      <categoria>Absoluta</categoria>
-      <posicion>Campeón</posicion>
-      <rival>S.D. Aucas</rival>
-    </logro>
+  <!-- ============================= -->
+  <!--   SECCIÓN: PALMARÉS COMPLETO  -->
+  <!-- ============================= -->
+  <palmares_idv>
+    <equipo>
+      <nombre>Independiente del Valle</nombre>
+      <alias>IDV</alias>
+      <pais>Ecuador</pais>
+      <rango_fechas>2007 - 2025</rango_fechas>
+    </equipo>
 
-    <logro id="6">
-      <competencia>Copa Sudamericana</competencia>
-      <anio>2019</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Absoluta</categoria>
-      <organizador>CONMEBOL</organizador>
-      <posicion>Campeón</posicion>
-      <rival>Colón de Santa Fe</rival>
-    </logro>
+    <logros>
 
-    <logro id="7">
-      <competencia>Copa Sudamericana</competencia>
-      <anio>2022</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Absoluta</categoria>
-      <organizador>CONMEBOL</organizador>
-      <posicion>Campeón</posicion>
-      <rival>São Paulo</rival>
-    </logro>
+      <logro id="1">
+        <competencia>Campeonato Ecuatoriano Segunda Categoría</competencia>
+        <anio>2007</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <detalle>Ascenso a Serie B</detalle>
+      </logro>
 
-    <logro id="8">
-      <competencia>Recopa Sudamericana</competencia>
-      <anio>2023</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Absoluta</categoria>
-      <organizador>CONMEBOL</organizador>
-      <posicion>Campeón</posicion>
-      <rival>Flamengo</rival>
-    </logro>
-    
-    <logro id="9">
-      <competencia>Copa Libertadores Sub-20</competencia>
-      <anio>2020</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Sub-20</categoria>
-      <organizador>CONMEBOL</organizador>
-      <posicion>Campeón</posicion>
-      <rival>River Plate</rival>
-    </logro>
+      <logro id="2">
+        <competencia>Campeonato Ecuatoriano Serie B</competencia>
+        <anio>2009</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <detalle>Ascenso a Primera Categoría</detalle>
+      </logro>
 
-    <logro id="10">
-      <competencia>Copa Libertadores</competencia>
-      <anio>2016</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Absoluta</categoria>
-      <organizador>CONMEBOL</organizador>
-      <posicion>Subcampeón</posicion>
-      <rival>Atlético Nacional</rival>
-    </logro>
+      <logro id="3">
+        <competencia>LigaPro Serie A</competencia>
+        <anio>2021</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival>C.S. Emelec</rival>
+      </logro>
 
-    <logro id="11">
-      <competencia>Recopa Sudamericana</competencia>
-      <anio>2020</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Absoluta</categoria>
-      <organizador>CONMEBOL</organizador>
-      <posicion>Subcampeón</posicion>
-      <rival>Flamengo</rival>
-    </logro>
+      <logro id="4">
+        <competencia>Copa Ecuador</competencia>
+        <anio>2022</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival>9 de Octubre</rival>
+      </logro>
 
-    <logro id="12">
-      <competencia>UEFA-CONMEBOL Desafío de Clubes</competencia>
-      <anio>2023</anio>
-      <ambito>Internacional</ambito>
-      <categoria>Absoluta</categoria>
-      <organizador>UEFA-CONMEBOL</organizador>
-      <posicion>Subcampeón</posicion>
-      <rival>Sevilla FC</rival>
-      <detalle>Definición por penales</detalle>
-    </logro>
-  </logros>
+      <logro id="5">
+        <competencia>Supercopa de Ecuador</competencia>
+        <anio>2023</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival>S.D. Aucas</rival>
+      </logro>
 
-</palmares_idv>
+      <!-- INTERNACIONALES -->
+      <logro id="6">
+        <competencia>Copa Sudamericana</competencia>
+        <anio>2019</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>Colón de Santa Fe</rival>
+      </logro>
+
+      <logro id="7">
+        <competencia>Copa Sudamericana</competencia>
+        <anio>2022</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>São Paulo</rival>
+      </logro>
+
+      <logro id="8">
+        <competencia>Recopa Sudamericana</competencia>
+        <anio>2023</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>Flamengo</rival>
+      </logro>
+
+      <logro id="9">
+        <competencia>Copa Libertadores Sub-20</competencia>
+        <anio>2020</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Sub-20</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Campeón</posicion>
+        <rival>River Plate</rival>
+      </logro>
+
+      <logro id="10">
+        <competencia>Copa Libertadores</competencia>
+        <anio>2016</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Subcampeón</posicion>
+        <rival>Atlético Nacional</rival>
+      </logro>
+
+      <logro id="11">
+        <competencia>Recopa Sudamericana</competencia>
+        <anio>2020</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>CONMEBOL</organizador>
+        <posicion>Subcampeón</posicion>
+        <rival>Flamengo</rival>
+      </logro>
+
+      <logro id="12">
+        <competencia>UEFA-CONMEBOL Desafío de Clubes</competencia>
+        <anio>2023</anio>
+        <ambito>Internacional</ambito>
+        <categoria>Absoluta</categoria>
+        <organizador>UEFA-CONMEBOL</organizador>
+        <posicion>Subcampeón</posicion>
+        <rival>Sevilla FC</rival>
+        <detalle>Definición por penales</detalle>
+      </logro>
+
+    </logros>
+  </palmares_idv>
+
+
+  <!-- ========================================= -->
+  <!--      SECCIÓN: TABLA DE POSICIONES 2025    -->
+  <!-- ========================================= -->
+  <TablaPosiciones torneo="LigaPro Ecuador 2025">
+
+    <!-- GRUPO A -->
+    <Grupo nombre="A">
+      <Equipo>
+        <Posicion>1</Posicion>
+        <Club>Independiente del Valle</Club>
+        <PJ>35</PJ>
+        <G>21</G>
+        <E>11</E>
+        <P>3</P>
+        <GF>63</GF>
+        <GC>27</GC>
+        <DG>36</DG>
+        <Pts>74</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>2</Posicion>
+        <Club>LDU Quito</Club>
+        <PJ>35</PJ>
+        <G>17</G>
+        <E>11</E>
+        <P>7</P>
+        <GF>62</GF>
+        <GC>36</GC>
+        <DG>26</DG>
+        <Pts>62</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>3</Posicion>
+        <Club>Barcelona SC</Club>
+        <PJ>36</PJ>
+        <G>18</G>
+        <E>8</E>
+        <P>10</P>
+        <GF>52</GF>
+        <GC>43</GC>
+        <DG>9</DG>
+        <Pts>62</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>4</Posicion>
+        <Club>U. Católica</Club>
+        <PJ>36</PJ>
+        <G>14</G>
+        <E>14</E>
+        <P>8</P>
+        <GF>66</GF>
+        <GC>46</GC>
+        <DG>20</DG>
+        <Pts>56</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>5</Posicion>
+        <Club>Libertad FC</Club>
+        <PJ>36</PJ>
+        <G>13</G>
+        <E>12</E>
+        <P>11</P>
+        <GF>48</GF>
+        <GC>45</GC>
+        <DG>3</DG>
+        <Pts>51</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>6</Posicion>
+        <Club>Orense</Club>
+        <PJ>36</PJ>
+        <G>14</G>
+        <E>9</E>
+        <P>13</P>
+        <GF>38</GF>
+        <GC>43</GC>
+        <DG>-5</DG>
+        <Pts>51</Pts>
+      </Equipo>
+    </Grupo>
+
+
+    <!-- GRUPO B -->
+    <Grupo nombre="B">
+      <Equipo>
+        <Posicion>1</Posicion>
+        <Club>Macará</Club>
+        <PJ>36</PJ>
+        <G>14</G>
+        <E>11</E>
+        <P>11</P>
+        <GF>47</GF>
+        <GC>34</GC>
+        <DG>13</DG>
+        <Pts>53</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>2</Posicion>
+        <Club>Aucas</Club>
+        <PJ>36</PJ>
+        <G>14</G>
+        <E>10</E>
+        <P>12</P>
+        <GF>55</GF>
+        <GC>48</GC>
+        <DG>7</DG>
+        <Pts>52</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>3</Posicion>
+        <Club>Deportivo Cuenca</Club>
+        <PJ>36</PJ>
+        <G>15</G>
+        <E>7</E>
+        <P>14</P>
+        <GF>38</GF>
+        <GC>36</GC>
+        <DG>2</DG>
+        <Pts>52</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>4</Posicion>
+        <Club>Emelec</Club>
+        <PJ>36</PJ>
+        <G>13</G>
+        <E>10</E>
+        <P>13</P>
+        <GF>35</GF>
+        <GC>42</GC>
+        <DG>-7</DG>
+        <Pts>49</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>5</Posicion>
+        <Club>El Nacional</Club>
+        <PJ>36</PJ>
+        <G>11</G>
+        <E>9</E>
+        <P>16</P>
+        <GF>49</GF>
+        <GC>59</GC>
+        <DG>-10</DG>
+        <Pts>42</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>6</Posicion>
+        <Club>Delfín</Club>
+        <PJ>36</PJ>
+        <G>7</G>
+        <E>14</E>
+        <P>15</P>
+        <GF>30</GF>
+        <GC>60</GC>
+        <DG>-30</DG>
+        <Pts>35</Pts>
+      </Equipo>
+    </Grupo>
+
+
+    <!-- GRUPO C -->
+    <Grupo nombre="C">
+      <Equipo>
+        <Posicion>1</Posicion>
+        <Club>Manta</Club>
+        <PJ>35</PJ>
+        <G>8</G>
+        <E>12</E>
+        <P>15</P>
+        <GF>43</GF>
+        <GC>57</GC>
+        <DG>-14</DG>
+        <Pts>36</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>2</Posicion>
+        <Club>Mushuc Runa</Club>
+        <PJ>35</PJ>
+        <G>9</G>
+        <E>8</E>
+        <P>18</P>
+        <GF>55</GF>
+        <GC>33</GC>
+        <DG>-19</DG>
+        <Pts>35</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>3</Posicion>
+        <Club>Técnico Universitario</Club>
+        <PJ>35</PJ>
+        <G>9</G>
+        <E>8</E>
+        <P>18</P>
+        <GF>59</GF>
+        <GC>81</GC>
+        <DG>-22</DG>
+        <Pts>33</Pts>
+      </Equipo>
+
+      <Equipo>
+        <Posicion>4</Posicion>
+        <Club>VinoTinto</Club>
+        <PJ>35</PJ>
+        <G>8</G>
+        <E>7</E>
+        <P>20</P>
+        <GF>40</GF>
+        <GC>51</GC>
+        <DG>-11</DG>
+        <Pts>31</Pts>
+      </Equipo>
+    </Grupo>
+
+  </TablaPosiciones>
+
+</IDV_Data>
