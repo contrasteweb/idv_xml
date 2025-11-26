@@ -397,4 +397,58 @@
   </jugador>
 </plantilla>
 
+  <!-- ================================== -->
+  <!--     SECCIÓN: PRÓXIMOS PARTIDOS      -->
+  <!-- ================================== -->
+
+  <proximos_partidos>
+
+    <partido id="1">
+      <equipo_local>LDU</equipo_local>
+      <equipo_visitante>IDV</equipo_visitante>
+      <fecha>Viernes 28</fecha>
+      <horario>19h00</horario>
+      <estadio>Estadio Rodrigo Paz</estadio>
+      <link_entradas>no disponible</link_entradas>
+    </partido>
+
+    <partido id="2">
+      <equipo_local>IDV</equipo_local>
+      <equipo_visitante>Libertad</equipo_visitante>
+      <fecha>Sábado 6</fecha>
+      <horario>17h00</horario>
+      <estadio>Estadio Banco Guayaquil</estadio>
+      <link_entradas>#</link_entradas>
+    </partido>
+
+    <partido id="3">
+      <equipo_local>IDV</equipo_local>
+      <equipo_visitante>LDU</equipo_visitante>
+      <fecha>Miércoles 10</fecha>
+      <horario>17h00</horario>
+      <estadio>Estadio Banco Guayaquil</estadio>
+      <link_entradas>#</link_entradas>
+    </partido>
+
+    <partido id="4">
+      <equipo_local>Católica</equipo_local>
+      <equipo_visitante>IDV</equipo_visitante>
+      <fecha>Por definir</fecha>
+      <horario>Por definir</horario>
+      <estadio>Estadio Atahualpa</estadio>
+      <link_entradas>no disponible</link_entradas>
+    </partido>
+
+    <partido id="5">
+      <equipo_local>IDV</equipo_local>
+      <equipo_visitante>Barcelona</equipo_visitante>
+      <fecha>Por definir</fecha>
+      <horario>Por definir</horario>
+      <estadio>Estadio Banco Guayaquil</estadio>
+      <link_entradas>#</link_entradas>
+    </partido>
+
+  </proximos_partidos>
+
 </independiente_del_valle>
+
