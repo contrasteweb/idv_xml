@@ -448,8 +448,8 @@
       <link_entradas>#</link_entradas>
     </partido>
 
-
-  <!-- ================================== -->
+ </proximos_partidos>
+    <!-- ================================== -->
   <!--     SECCIÓN:  PARTIDOS JUGADOS     -->
   <!-- ================================== -->
     
@@ -951,8 +951,8 @@
     </partido>
 
 </partidos_jugados>
-  </proximos_partidos>
 
 </independiente_del_valle>
+
 
 
