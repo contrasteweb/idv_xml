@@ -468,7 +468,7 @@
     <partido>
         <fecha>22 de febrero de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Imbabura</visita>
+        <visita>LDU</visita>
         <resultado>1:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 2</jornada>
@@ -477,7 +477,7 @@
     <partido>
         <fecha>2 de marzo de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Cumbayá F. C.</visita>
+        <visita>U. Católica.</visita>
         <resultado>1:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 3</jornada>
@@ -495,7 +495,7 @@
     <partido>
         <fecha>16 de marzo de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Universidad Católica</visita>
+        <visita>Macará</visita>
         <resultado>1:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 5</jornada>
@@ -515,14 +515,14 @@
         <local>Barcelona</local>
         <visita>Independiente del Valle</visita>
         <resultado>1:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Fase de grupos</jornada>
+        <torneo>Copa Libertadores</torneo>
+        <jornada>Fase de grupos - Fecha 1</jornada>
     </partido>
 
     <partido>
         <fecha>5 de abril de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Técnico Universitario</visita>
+        <visita>Deportivo Cuenca</visita>
         <resultado>4:0</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 7</jornada>
@@ -531,10 +531,10 @@
     <partido>
         <fecha>8 de abril de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Trinidense</visita>
+        <visita>Universitario De deportes</visita>
         <resultado>1:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Fase de grupos</jornada>
+        <torneo>Copa  Libertadores</torneo>
+        <jornada>Fase de grupos - fecha 2</jornada>
     </partido>
 
     <partido>
@@ -549,7 +549,7 @@
     <partido>
         <fecha>19 de abril de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Delfín</visita>
+        <visita>Manta F.C.</visita>
         <resultado>2:0</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 9</jornada>
@@ -558,10 +558,10 @@
     <partido>
         <fecha>23 de abril de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Danubio</visita>
+        <visita>River Plate</visita>
         <resultado>2:2</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Fase de grupos</jornada>
+        <torneo>Copa Libertadores</torneo>
+        <jornada>Fase de grupos - Fecha 3</jornada>
     </partido>
 
     <partido>
@@ -587,373 +587,348 @@
         <local>Universitario</local>
         <visita>Independiente del Valle</visita>
         <resultado>1:1</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Fase de grupos</jornada>
+        <torneo>Copa Libertadores</torneo>
+        <jornada>Fase de grupos - Fecha 4</jornada>
     </partido>
 
     <partido>
         <fecha>11 de mayo de 2025</fecha>
-        <local>U. Católica</local>
+        <local>Técnico Universitario </local>
         <visita>Independiente del Valle</visita>
-        <resultado>0:1</resultado>
+        <resultado>1:2</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 12</jornada>
     </partido>
 
     <partido>
         <fecha>15 de mayo de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Alianza</visita>
-        <resultado>2:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Fase de grupos</jornada>
+        <local>River Plate</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>6:2</resultado>
+        <torneo>Copa Liberatadores</torneo>
+        <jornada>Fase de grupos - Fecha 5</jornada>
     </partido>
 
     <partido>
         <fecha>18 de mayo de 2025</fecha>
-        <local>LDU Quito</local>
+        <local>Vino Tinto EC</local>
         <visita>Independiente del Valle</visita>
-        <resultado>2:2</resultado>
+        <resultado>1:3</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 13</jornada>
     </partido>
 
     <partido>
-        <fecha>25 de mayo de 2025</fecha>
+        <fecha>23 de mayo de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Libertad</visita>
-        <resultado>4:1</resultado>
+        <visita>Mushuc Runa</visita>
+        <resultado>2:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 14</jornada>
     </partido>
 
     <partido>
-        <fecha>1 de junio de 2025</fecha>
+        <fecha>27 de mayo de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>El Nacional</visita>
-        <resultado>2:2</resultado>
-        <torneo>Copa Ecuador</torneo>
-        <jornada>Dieciseisavos de final</jornada>
+        <visita>Barcelona</visita>
+        <resultado>2:1</resultado>
+        <torneo>Copa Libertadores</torneo>
+        <jornada>Fecha 6</jornada>
     </partido>
 
     <partido>
-        <fecha>8 de junio de 2025</fecha>
-        <local>Cumbayá</local>
+        <fecha>31 de Mayo de 2025</fecha>
+        <local>Delfín</local>
         <visita>Independiente del Valle</visita>
-        <resultado>1:0</resultado>
+        <resultado>1:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 15</jornada>
     </partido>
 
     <partido>
-        <fecha>12 de junio de 2025</fecha>
+        <fecha>14 de junio de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Danubio</visita>
-        <resultado>3:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Repechaje ida</jornada>
+        <visita>Liberta</visita>
+        <resultado>1:1</resultado>
+        <torneo>Liga Pro</torneo>
+        <jornada>fecha 16</jornada>
     </partido>
 
     <partido>
-        <fecha>19 de junio de 2025</fecha>
-        <local>Danubio</local>
+        <fecha>22 de junio de 2025</fecha>
+        <local>LDU</local>
         <visita>Independiente del Valle</visita>
         <resultado>1:1</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Repechaje vuelta</jornada>
-    </partido>
-
-    <partido>
-        <fecha>23 de junio de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Olmedo</visita>
-        <resultado>3:0</resultado>
-        <torneo>Copa Ecuador</torneo>
-        <jornada>Dieciseisavos de final</jornada>
-    </partido>
-
-    <partido>
-        <fecha>28 de junio de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Barcelona S. C.</visita>
-        <resultado>2:1</resultado>
-        <torneo>LigaPro</torneo>
-        <jornada>Fecha 16</jornada>
-    </partido>
-
-    <partido>
-        <fecha>2 de julio de 2025</fecha>
-        <local>Millonarios</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>1:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Octavos ida</jornada>
-    </partido>
-
-    <partido>
-        <fecha>9 de julio de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Millonarios</visita>
-        <resultado>2:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Octavos vuelta</jornada>
-    </partido>
-
-    <partido>
-        <fecha>13 de julio de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Imbabura</visita>
-        <resultado>3:1</resultado>
-        <torneo>LigaPro</torneo>
+        <torneo>Ligapro</torneo>
         <jornada>Fecha 17</jornada>
     </partido>
 
     <partido>
-        <fecha>20 de julio de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Emelec</visita>
-        <resultado>0:1</resultado>
-        <torneo>LigaPro</torneo>
+        <fecha>29 de junio de 2025</fecha>
+        <local>U. Católica</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>0:3</resultado>
+        <torneo>Ligapro</torneo>
         <jornada>Fecha 18</jornada>
     </partido>
 
     <partido>
-        <fecha>27 de julio de 2025</fecha>
+        <fecha>5 de julio de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Universidad Católica</visita>
-        <resultado>2:0</resultado>
+        <visita>Barcelona S. C.</visita>
+        <resultado>1:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 19</jornada>
     </partido>
 
     <partido>
-        <fecha>30 de julio de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Orense</visita>
-        <resultado>2:0</resultado>
-        <torneo>LigaPro</torneo>
+        <fecha>11 de julio de 2025</fecha>
+        <local>Macará</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>1:2</resultado>
+        <torneo>Ligapro</torneo>
         <jornada>Fecha 20</jornada>
     </partido>
 
     <partido>
-        <fecha>6 de agosto de 2025</fecha>
-        <local>Boca Juniors</local>
-        <visita>Independiente del Valle</visita>
+        <fecha>15 de julio de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Basco Da Gama</visita>
+        <resultado>4:0</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Octavos- IDA</jornada>
+    </partido>
+
+    <partido>
+        <fecha>18 de julio de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Aucas</visita>
         <resultado>2:1</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Cuartos ida</jornada>
-    </partido>
-
-    <partido>
-        <fecha>13 de agosto de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Boca Juniors</visita>
-        <resultado>3:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Cuartos vuelta</jornada>
-    </partido>
-
-    <partido>
-        <fecha>17 de agosto de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Delfín</visita>
-        <resultado>3:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 21</jornada>
     </partido>
 
     <partido>
-        <fecha>24 de agosto de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Libertad</visita>
-        <resultado>2:0</resultado>
+        <fecha>22 de julio de 2025</fecha>
+        <local>Basco Da Gama</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>1:1</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Octavos - Vuelta</jornada>
+    </partido>
+
+    <partido>
+        <fecha>27 de julio de 2025</fecha>
+        <local>Deportivo Cuenca</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>0:3</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 22</jornada>
     </partido>
 
     <partido>
-        <fecha>31 de agosto de 2025</fecha>
+        <fecha>3 de agosto 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Olmedo</visita>
-        <resultado>3:0</resultado>
-        <torneo>Copa Ecuador</torneo>
-        <jornada>Octavos de final</jornada>
-    </partido>
-
-    <partido>
-        <fecha>3 de septiembre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Atlético Mineiro</visita>
+        <visita>El Nacional</visita>
         <resultado>1:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Semifinal ida</jornada>
-    </partido>
-
-    <partido>
-        <fecha>10 de septiembre de 2025</fecha>
-        <local>Atlético Mineiro</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>2:2</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Semifinal vuelta</jornada>
-    </partido>
-
-    <partido>
-        <fecha>14 de septiembre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Cumbayá</visita>
-        <resultado>2:0</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 23</jornada>
     </partido>
 
     <partido>
-        <fecha>21 de septiembre de 2025</fecha>
-        <local>Imbabura</local>
+        <fecha>6 de agosto de 2025</fecha>
+        <local>Imbabura SC</local>
         <visita>Independiente del Valle</visita>
-        <resultado>0:2</resultado>
-        <torneo>LigaPro</torneo>
+        <resultado>0:1</resultado>
+        <torneo>Copa Ecuador</torneo>
+        <jornada>16vos de Final</jornada>
+    </partido>
+
+    <partido>
+        <fecha>9 de agosto de 2025</fecha>
+        <local>Manta FC</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>0:0</resultado>
+        <torneo>Ligapro</torneo>
         <jornada>Fecha 24</jornada>
     </partido>
 
     <partido>
-        <fecha>28 de septiembre de 2025</fecha>
-        <local>Libertad</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>1:1</resultado>
+        <fecha>12 de agosto de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Muschu Runa</visita>
+        <resultado>1:0</resultado>
+        <torneo>Copa Sudmericana</torneo>
+        <jornada>Octavos de Final - IDA</jornada>
+    </partido>
+
+    <partido>
+        <fecha>16 de agosto de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Orense</visita>
+        <resultado>2:1</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 25</jornada>
     </partido>
 
     <partido>
-        <fecha>5 de octubre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>LDU Quito</visita>
-        <resultado>1:0</resultado>
-        <torneo>LigaPro</torneo>
+        <fecha>19 de agosto de 2025</fecha>
+        <local>Mushuc Runa</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>2:1 - penales 2:4</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Octavos de final Vuelta</jornada>
+    </partido>
+
+    <partido>
+        <fecha>24 de agosto de 2025</fecha>
+        <local>Emelec</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>0:1</resultado>
+        <torneo>ligapro</torneo>
         <jornada>Fecha 26</jornada>
     </partido>
 
     <partido>
-        <fecha>12 de octubre de 2025</fecha>
-        <local>Técnico Universitario</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>0:1</resultado>
-        <torneo>LigaPro</torneo>
+        <fecha>30 de agosto de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>T, Universitario</visita>
+        <resultado>4:0</resultado>
+        <torneo>Ligapro</torneo>
         <jornada>Fecha 27</jornada>
     </partido>
 
     <partido>
-        <fecha>19 de octubre de 2025</fecha>
-        <local>Vinotinto Ecuador</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>0:3</resultado>
+        <fecha>13 de septiembre de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Vino Tinto EC</visita>
+        <resultado>3:0</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 28</jornada>
     </partido>
 
     <partido>
-        <fecha>23 de octubre de 2025</fecha>
-        <local>Once Caldas</local>
+        <fecha>17 de septiembre de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Onca Caldas</visita>
+        <resultado>0:2</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Cuartos de Final - IDA</jornada>
+    </partido>
+
+    <partido>
+        <fecha>20 de septiembre de 2025</fecha>
+        <local>Mushuc Runa</local>
         <visita>Independiente del Valle</visita>
-        <resultado>1:1</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Final ida</jornada>
-    </partido>
-
-    <partido>
-        <fecha>30 de octubre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Once Caldas</visita>
-        <resultado>2:0</resultado>
-        <torneo>Copa Sudamericana</torneo>
-        <jornada>Final vuelta</jornada>
-    </partido>
-
-    <partido>
-        <fecha>2 de noviembre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Delfín</visita>
-        <resultado>3:2</resultado>
+        <resultado>2:2</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 29</jornada>
     </partido>
 
     <partido>
-        <fecha>9 de noviembre de 2025</fecha>
+        <fecha>24 de septiembre de 2025</fecha>
+        <local>Onca Caldas</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>0:2 - Penales 4:5</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Cuarto de Final - Vuelta</jornada>
+    </partido>
+
+    <partido>
+        <fecha>28 de Septiembre de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Orense</visita>
-        <resultado>1:0</resultado>
+        <visita>Delfín</visita>
+        <resultado>0:0</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 30</jornada>
     </partido>
 
     <partido>
-        <fecha>16 de noviembre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>U. Católica</visita>
-        <resultado>2:1</resultado>
-        <torneo>Copa Ecuador</torneo>
-        <jornada>Cuartos de final</jornada>
-    </partido>
-
-    <partido>
-        <fecha>23 de noviembre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Delfín</visita>
-        <resultado>2:0</resultado>
+        <fecha>5 de octubre de 2025</fecha>
+        <local>Barcelona SC</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>0:3</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 31</jornada>
     </partido>
 
     <partido>
-        <fecha>30 de noviembre de 2025</fecha>
+        <fecha>8 de octubre de 2025</fecha>
+        <local>Gualaceo SC</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>1:6</resultado>
+        <torneo>Copa Ecuador</torneo>
+        <jornada>Octavos de Final</jornada>
+    </partido>
+
+    <partido>
+        <fecha>13 de octubre de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>LDU Quito</visita>
-        <resultado>1:1</resultado>
+        <visita>LDU</visita>
+        <resultado>1:2</resultado>
+        <torneo>Copa Ecuador</torneo>
+        <jornada>Cuartos de Final</jornada>
+    </partido>
+
+    <partido>
+        <fecha>17 de Octubre de 2025</fecha>
+        <local>Orense</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>1:2</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 32</jornada>
     </partido>
 
     <partido>
-        <fecha>7 de diciembre de 2025</fecha>
+        <fecha>21 de octubre de 2025</fecha>
         <local>Independiente del Valle</local>
-        <visita>Universidad Católica</visita>
-        <resultado>3:0</resultado>
-        <torneo>LigaPro</torneo>
-        <jornada>Fecha 33</jornada>
+        <visita>Atlético Mineiro</visita>
+        <resultado>1:1</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Semifinal - IDA</jornada>
     </partido>
 
     <partido>
-        <fecha>14 de diciembre de 2025</fecha>
-        <local>Independiente del Valle</local>
-        <visita>Orense</visita>
-        <resultado>2:1</resultado>
+        <fecha>28 de octubre de 2025</fecha>
+        <local>Atlético Mineiro</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>3:1</resultado>
+        <torneo>Copa Sudamericana</torneo>
+        <jornada>Semifinal - VUELTA</jornada>
+    </partido>
+
+    <partido>
+        <fecha>3 de noviembre de 2025</fecha>
+        <local>Libertad</local>
+        <visita>Semifinal - IDA</visita>
+        <resultado>1:3</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 34</jornada>
     </partido>
 
     <partido>
-        <fecha>21 de diciembre de 2025</fecha>
-        <local>U. Católica</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>0:1</resultado>
+        <fecha>8 de noviembre de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>U. Católica</visita>
+        <resultado>0:2</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 35</jornada>
     </partido>
 
     <partido>
-        <fecha>28 de diciembre de 2025</fecha>
-        <local>Orense</local>
-        <visita>Independiente del Valle</visita>
-        <resultado>1:2</resultado>
+        <fecha>23 de noviembre de 2025</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Orense</visita>
+        <resultado>0:0</resultado>
         <torneo>LigaPro</torneo>
         <jornada>Fecha 36</jornada>
     </partido>
 
+   
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
