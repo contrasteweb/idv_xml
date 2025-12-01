@@ -131,96 +131,89 @@
   <!--     SECCIÓN TABLA POSICIONES    -->
   <!-- =============================== -->
   
-  <posiciones>
-    <grupo nombre="A">
-      <club>
-        <nombre>Independiente del Valle</nombre>
-        <pj>35</pj><g>21</g><e>11</e><p>3</p>
-        <gf>63</gf><gc>27</gc><dg>36</dg><pts>74</pts>
-      </club>
-      <club>
-        <nombre>LDU Quito</nombre>
-        <pj>35</pj><g>17</g><e>11</e><p>7</p>
-        <gf>62</gf><gc>36</gc><dg>26</dg><pts>62</pts>
-      </club>
-      <club>
-        <nombre>Barcelona SC</nombre>
-        <pj>36</pj><g>18</g><e>8</e><p>10</p>
-        <gf>52</gf><gc>43</gc><dg>9</dg><pts>62</pts>
-      </club>
-      <club>
-        <nombre>Universidad Católica</nombre>
-        <pj>36</pj><g>14</g><e>14</e><p>8</p>
-        <gf>66</gf><gc>46</gc><dg>20</dg><pts>56</pts>
-      </club>
-      <club>
-        <nombre>Libertad FC</nombre>
-        <pj>36</pj><g>13</g><e>12</e><p>11</p>
-        <gf>48</gf><gc>45</gc><dg>3</dg><pts>51</pts>
-      </club>
-      <club>
-        <nombre>Orense</nombre>
-        <pj>36</pj><g>14</g><e>9</e><p>13</p>
-        <gf>38</gf><gc>43</gc><dg>-5</dg><pts>51</pts>
-      </club>
-    </grupo>
+  <tabla>
+    
+    <equipo posicion="1">
+      <nombre>Independiente del Valle</nombre>
+      <puntos>74</puntos>
+    </equipo>
 
-    <grupo nombre="B">
-      <club>
-        <nombre>Macará</nombre>
-        <pj>36</pj><g>14</g><e>11</e><p>11</p>
-        <gf>47</gf><gc>34</gc><dg>13</dg><pts>53</pts>
-      </club>
-      <club>
-        <nombre>Aucas</nombre>
-        <pj>36</pj><g>14</g><e>10</e><p>12</p>
-        <gf>55</gf><gc>48</gc><dg>7</dg><pts>52</pts>
-      </club>
-      <club>
-        <nombre>Deportivo Cuenca</nombre>
-        <pj>36</pj><g>15</g><e>7</e><p>14</p>
-        <gf>38</gf><gc>36</gc><dg>2</dg><pts>52</pts>
-      </club>
-      <club>
-        <nombre>Emelec</nombre>
-        <pj>36</pj><g>13</g><e>10</e><p>13</p>
-        <gf>35</gf><gc>42</gc><dg>-7</dg><pts>49</pts>
-      </club>
-      <club>
-        <nombre>El Nacional</nombre>
-        <pj>36</pj><g>11</g><e>9</e><p>16</p>
-        <gf>41</gf><gc>59</gc><dg>-18</dg><pts>42</pts>
-      </club>
-      <club>
-        <nombre>Delfín</nombre>
-        <pj>36</pj><g>7</g><e>14</e><p>15</p>
-        <gf>30</gf><gc>60</gc><dg>-30</dg><pts>35</pts>
-      </club>
-    </grupo>
+    <equipo posicion="2">
+      <nombre>LDU Quito</nombre>
+      <puntos>65</puntos>
+    </equipo>
 
-    <grupo nombre="C">
-      <club>
-        <nombre>Manta</nombre>
-        <pj>35</pj><g>8</g><e>12</e><p>15</p>
-        <gf>43</gf><gc>57</gc><dg>-14</dg><pts>36</pts>
-      </club>
-      <club>
-        <nombre>Mushuc Runa</nombre>
-        <pj>35</pj><g>9</g><e>8</e><p>18</p>
-        <gf>42</gf><gc>55</gc><dg>-13</dg><pts>35</pts>
-      </club>
-      <club>
-        <nombre>Técnico Universitario</nombre>
-        <pj>35</pj><g>9</g><e>8</e><p>18</p>
-        <gf>29</gf><gc>51</gc><dg>-22</dg><pts>35</pts>
-      </club>
-      <club>
-        <nombre>Vínotinto</nombre>
-        <pj>35</pj><g>8</g><e>7</e><p>20</p>
-        <gf>41</gf><gc>61</gc><dg>-21</dg><pts>31</pts>
-      </club>
-    </grupo>
-  </posiciones>
+    <equipo posicion="3">
+      <nombre>Barcelona SC</nombre>
+      <puntos>63</puntos>
+    </equipo>
+
+    <equipo posicion="4">
+      <nombre>U. Católica</nombre>
+      <puntos>57</puntos>
+    </equipo>
+
+    <equipo posicion="5">
+      <nombre>Libertad FC</nombre>
+      <puntos>52</puntos>
+    </equipo>
+
+    <equipo posicion="6">
+      <nombre>Orense SC</nombre>
+      <puntos>52</puntos>
+    </equipo>
+
+    <equipo posicion="7">
+      <nombre>Macará</nombre>
+      <puntos>56</puntos>
+    </equipo>
+
+    <equipo posicion="8">
+      <nombre>Aucas</nombre>
+      <puntos>55</puntos>
+    </equipo>
+
+    <equipo posicion="9">
+      <nombre>Deportivo Cuenca</nombre>
+      <puntos>52</puntos>
+    </equipo>
+
+    <equipo posicion="10">
+      <nombre>Emelec</nombre>
+      <puntos>52</puntos>
+    </equipo>
+
+    <equipo posicion="11">
+      <nombre>El Nacional</nombre>
+      <puntos>42</puntos>
+    </equipo>
+
+    <equipo posicion="12">
+      <nombre>Delfín SC</nombre>
+      <puntos>35</puntos>
+    </equipo>
+
+    <equipo posicion="13">
+      <nombre>Manta SC</nombre>
+      <puntos>39</puntos>
+    </equipo>
+
+    <equipo posicion="14">
+      <nombre>Mushuc Runa</nombre>
+      <puntos>36</puntos>
+    </equipo>
+
+    <equipo posicion="15">
+      <nombre>Técnico Universitario</nombre>
+      <puntos>33</puntos>
+    </equipo>
+
+    <equipo posicion="16">
+      <nombre>Vinotinto</nombre>
+      <puntos>32</puntos>
+    </equipo>
+
+  </tabla>
 
   <!-- =============================== -->
   <!--      SECCIÓN PLANTILLA IDV      -->
@@ -928,6 +921,7 @@
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
