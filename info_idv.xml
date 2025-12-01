@@ -403,15 +403,6 @@
 
   <proximos_partidos>
 
-    <partido id="1">
-      <equipo_local>LDU</equipo_local>
-      <equipo_visitante>IDV</equipo_visitante>
-      <fecha>Viernes 28</fecha>
-      <horario>19h00</horario>
-      <estadio>Estadio Rodrigo Paz</estadio>
-      <link_entradas>no disponible</link_entradas>
-    </partido>
-
     <partido id="2">
       <equipo_local>IDV</equipo_local>
       <equipo_visitante>Libertad</equipo_visitante>
@@ -924,10 +915,20 @@
         <jornada>Fecha 36</jornada>
     </partido>
 
+    <partido>
+        <fecha>28 de noviembre de 2025</fecha>
+        <local>LDU</local>
+        <visita>Independiente del Valle</visita>
+        <resultado>2:1</resultado>
+        <torneo>LigaPro</torneo>
+        <jornada>Fecha 37</jornada>
+    </partido>
+
    
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
