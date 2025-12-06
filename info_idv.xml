@@ -402,7 +402,7 @@
       <fecha>Sábado 6</fecha>
       <horario>17h00</horario>
       <estadio>Estadio Banco Guayaquil</estadio>
-      <link_entradas>#</link_entradas>
+      <link_entradas>https://www.tickets.superticket.ec/event/local-idv-vs-libertad-fc-a13hlx</link_entradas>
     </partido>
 
     <partido id="3">
@@ -921,6 +921,7 @@
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
