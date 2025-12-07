@@ -396,16 +396,7 @@
 
   <proximos_partidos>
 
-    <partido id="2">
-      <equipo_local>IDV</equipo_local>
-      <equipo_visitante>Libertad</equipo_visitante>
-      <fecha>Sábado 6</fecha>
-      <horario>17h00</horario>
-      <estadio>Estadio Banco Guayaquil</estadio>
-      <link_entradas>https://www.tickets.superticket.ec/event/local-idv-vs-libertad-fc-a13hlx</link_entradas>
-    </partido>
-
-    <partido id="3">
+      <partido id="3">
       <equipo_local>IDV</equipo_local>
       <equipo_visitante>LDU</equipo_visitante>
       <fecha>Miércoles 10</fecha>
@@ -917,10 +908,21 @@
         <jornada>Fecha 37</jornada>
     </partido>
 
+      <partido>
+        <fecha>6 de diciembre</fecha>
+        <local>Independiente del Valle</local>
+        <visita>Libertad </visita>
+        <resultado>1:1</resultado>
+        <torneo>LigaPro</torneo>
+        <jornada>Fecha 38</jornada>
+    </partido>
+
+
    
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
