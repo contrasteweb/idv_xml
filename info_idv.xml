@@ -124,6 +124,17 @@
         <detalle>Definición por penales</detalle>
       </logro>
 
+ <logro id="13">
+        <competencia>LIGAPRO</competencia>
+        <anio>2025</anio>
+        <ambito>Nacional</ambito>
+        <categoria>Absoluta</categoria>
+        <posicion>Campeón</posicion>
+        <rival></rival>
+        <detalle></detalle>
+      </logro>
+
+      
     </logros>
 
 
@@ -922,6 +933,7 @@
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
