@@ -138,93 +138,94 @@
     </logros>
 
 
-  <!-- =============================== -->
-  <!--     SECCIÓN TABLA POSICIONES    -->
-  <!-- =============================== -->
-  
-  <tabla>
-    
-    <equipo posicion="1">
-      <nombre>Independiente del Valle</nombre>
-      <puntos>74</puntos>
-    </equipo>
+ <!-- =============================== -->
+<!--     SECCIÓN TABLA POSICIONES    -->
+<!-- =============================== -->
 
-    <equipo posicion="2">
-      <nombre>LDU Quito</nombre>
-      <puntos>65</puntos>
-    </equipo>
+<tabla>
 
-    <equipo posicion="3">
-      <nombre>Barcelona SC</nombre>
-      <puntos>63</puntos>
-    </equipo>
+  <equipo posicion="1">
+    <nombre>Independiente del Valle</nombre>
+    <puntos>75</puntos>
+  </equipo>
 
-    <equipo posicion="4">
-      <nombre>U. Católica</nombre>
-      <puntos>57</puntos>
-    </equipo>
+  <equipo posicion="2">
+    <nombre>LDU Quito</nombre>
+    <puntos>65</puntos>
+  </equipo>
 
-    <equipo posicion="5">
-      <nombre>Libertad FC</nombre>
-      <puntos>52</puntos>
-    </equipo>
+  <equipo posicion="3">
+    <nombre>Barcelona SC</nombre>
+    <puntos>64</puntos>
+  </equipo>
 
-    <equipo posicion="6">
-      <nombre>Orense SC</nombre>
-      <puntos>52</puntos>
-    </equipo>
+  <equipo posicion="4">
+    <nombre>U. Católica</nombre>
+    <puntos>58</puntos>
+  </equipo>
 
-    <equipo posicion="7">
-      <nombre>Macará</nombre>
-      <puntos>56</puntos>
-    </equipo>
+  <equipo posicion="5">
+    <nombre>Orense</nombre>
+    <puntos>55</puntos>
+  </equipo>
 
-    <equipo posicion="8">
-      <nombre>Aucas</nombre>
-      <puntos>55</puntos>
-    </equipo>
+  <equipo posicion="6">
+    <nombre>Macará</nombre>
+    <puntos>56</puntos>
+  </equipo>
 
-    <equipo posicion="9">
-      <nombre>Deportivo Cuenca</nombre>
-      <puntos>52</puntos>
-    </equipo>
+  <equipo posicion="7">
+    <nombre>Aucas</nombre>
+    <puntos>55</puntos>
+  </equipo>
 
-    <equipo posicion="10">
-      <nombre>Emelec</nombre>
-      <puntos>52</puntos>
-    </equipo>
+  <equipo posicion="8">
+    <nombre>Libertad FC</nombre>
+    <puntos>53</puntos>
+  </equipo>
 
-    <equipo posicion="11">
-      <nombre>El Nacional</nombre>
-      <puntos>42</puntos>
-    </equipo>
+  <equipo posicion="9">
+    <nombre>Dep. Cuenca</nombre>
+    <puntos>53</puntos>
+  </equipo>
 
-    <equipo posicion="12">
-      <nombre>Delfín SC</nombre>
-      <puntos>35</puntos>
-    </equipo>
+  <equipo posicion="10">
+    <nombre>Emelec</nombre>
+    <puntos>52</puntos>
+  </equipo>
 
-    <equipo posicion="13">
-      <nombre>Manta SC</nombre>
-      <puntos>39</puntos>
-    </equipo>
+  <equipo posicion="11">
+    <nombre>El Nacional</nombre>
+    <puntos>45</puntos>
+  </equipo>
 
-    <equipo posicion="14">
-      <nombre>Mushuc Runa</nombre>
-      <puntos>36</puntos>
-    </equipo>
+  <equipo posicion="12">
+    <nombre>Delfín</nombre>
+    <puntos>36</puntos>
+  </equipo>
 
-    <equipo posicion="15">
-      <nombre>Técnico Universitario</nombre>
-      <puntos>33</puntos>
-    </equipo>
+  <equipo posicion="13">
+    <nombre>Manta</nombre>
+    <puntos>39</puntos>
+  </equipo>
 
-    <equipo posicion="16">
-      <nombre>Vinotinto</nombre>
-      <puntos>32</puntos>
-    </equipo>
+  <equipo posicion="14">
+    <nombre>Mushuc Runa</nombre>
+    <puntos>36</puntos>
+  </equipo>
 
-  </tabla>
+  <equipo posicion="15">
+    <nombre>Técnico Universitario</nombre>
+    <puntos>33</puntos>
+  </equipo>
+
+  <equipo posicion="16">
+    <nombre>Vinotinto</nombre>
+    <puntos>32</puntos>
+  </equipo>
+
+</tabla>
+
 
   <!-- =============================== -->
   <!--      SECCIÓN PLANTILLA IDV      -->
@@ -933,6 +934,7 @@
 </partidos_jugados>
 
 </independiente_del_valle>
+
 
 
 
